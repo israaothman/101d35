@@ -1,4 +1,3 @@
-# 101d35
 
 ## My first repo :stuck_out_tongue:
 
